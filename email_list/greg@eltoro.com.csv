@@ -1,0 +1,3 @@
+bucket_ids,bucket_name,URL,repName,repemail,expected_per_day,is_event,met_expectations
+uHq9v2ZGJL3BrGP5q,Danville Public Schools.csv,https://portal.eltoro.com/bucket/uHq9v2ZGJL3BrGP5q,Greg Mosley,greg@eltoro.com,,,
+p3mPcLLYJYwwKqWPK,Comfy Cow Louisville Locations.csv,https://portal.eltoro.com/bucket/p3mPcLLYJYwwKqWPK,Greg Mosley,greg@eltoro.com,,,
